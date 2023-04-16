@@ -12,5 +12,5 @@
 
 <section id='stats'>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xobby&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xobby&layout=compact)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PiccioneFire&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiccioneFire&layout=compact)
